@@ -1,0 +1,27 @@
+body {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+}
+
+.text-style-written {
+  font-family: 'Bryndan Write';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.text-site {
+  color: #862d23 !important;
+}
+
+.border-site {
+  border-color: #862d23 !important;
+}
+
+.link-site {
+  color: #862d23 !important;
+}
+
+.link-site:hover,
+.link-site:focus {
+  color: #501b15 !important;
+}
