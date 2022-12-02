@@ -10,18 +10,22 @@ body {
 }
 
 .text-site {
-  color: #862d23 !important;
+  color: #bb3d35 !important;
 }
 
 .border-site {
-  border-color: #862d23 !important;
+  border-color: #bb3d35 !important;
 }
 
 .link-site {
-  color: #862d23 !important;
+  color: #bb3d35 !important;
 }
 
 .link-site:hover,
 .link-site:focus {
-  color: #501b15 !important;
+  color: #702520 !important;
+}
+
+.nav-link.active {
+  color: #702520 !important;
 }
